@@ -4,12 +4,12 @@
 #### Here is a simple collection of my 3D printed designs and parts, along with notes from our game sessions.
 
 ### Minis
-```
+
   - Player Characters
   - NPCs
   - Enemies
-  - [Witchlight](https://github.com/Frostlight-Factory/Frostlight-Factory.github.io/blob/main/Minis/Witchlight.html)
-```
+  - [Witchlight](Witchlight.html)
+
 
 ### Session Notes
 ```
