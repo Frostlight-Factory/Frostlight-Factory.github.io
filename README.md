@@ -8,7 +8,7 @@
   - Player Characters
   - NPCs
   - Enemies
-  - [Witchlight](https://github.com/Frostlight-Factory/Frostlight-Factory.github.io/blob/main/Minis/Witchlight.md)
+  - [Witchlight](https://Frostlight-Factory.github.io/blob/main/Minis/Witchlight.md)
 
 
 ### Session Notes
