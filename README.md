@@ -1,9 +1,9 @@
 ## Welcome to Frostlight Factory!
 
 
-Located within are notes from our game sessions, along with miniatures and other 3D printed designs I just want to show off.
+### Here is a simple collection of my 3D printed designs and parts, along with notes from our game sessions.
 
-### Current campaign : The Wild Beyond the Witchlight
+Current campaign : The Wild Beyond the Witchlight
 
 Random notes here.
 
