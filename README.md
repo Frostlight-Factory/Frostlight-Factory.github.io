@@ -3,10 +3,22 @@
 
 #### Here is a simple collection of my 3D printed designs and parts, along with notes from our game sessions.
 
-Current campaign : The Wild Beyond the Witchlight
+### Minis
+```
+  - Player Characters
+  - NPCs
+  - Enemies
+```
 
-Random notes here.
-
+### Session Notes
+```
+   - Rime of the Frostmaiden
+   - Wild Beyond the Witchlight
+   - 
+```   
+   
+   
+   
 ```markdown
 Syntax highlighted code block
 
