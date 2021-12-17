@@ -5,7 +5,7 @@
 
 ### Minis
 
-  - Player Characters
+  - [Player Characters](https://Frostlight-Factory.github.io/PlayerCharacters.html)
   - NPCs
   - Enemies
   - [Witchlight](https://Frostlight-Factory.github.io/blob/main/Minis/Witchlight.html)
