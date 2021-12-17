@@ -8,15 +8,14 @@
   - Player Characters
   - NPCs
   - Enemies
-  - [Witchlight](Witchlight.html)
+  - [Witchlight](https://github.com/Frostlight-Factory/Frostlight-Factory.github.io/blob/main/Minis/Witchlight.html)
 
 
 ### Session Notes
-```
+
    - Rime of the Frostmaiden
    - Wild Beyond the Witchlight
    - 
-```   
    
    
    
