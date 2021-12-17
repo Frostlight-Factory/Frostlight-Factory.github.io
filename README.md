@@ -8,6 +8,7 @@
   - Player Characters
   - NPCs
   - Enemies
+  - [Witchlight](Witchlight.html)
 ```
 
 ### Session Notes
