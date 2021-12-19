@@ -13,27 +13,25 @@ html {background: linear-gradient(to bottom right, SteelBlue, PowderBlue) no-rep
    <style>
      p {background: Gainsboro; color: SlateBlue;}
      h2 {color: Gainsboro;}
-     .button {
-               display: inline-block;
-               padding: 13px 22px;
-               font-size: 11px;
-               cursor: pointer;
-               text-align: center;
-               text-decoration: none;
-               outline: none;
-               color: Teal;
-               background-color: Thistle;
-               border: none;
-               border-radius: 15px;
-               box-shadow: 0 9px #999;
-             }
-     .button:hover {background-color: LightSteelBlue}
+      
+     a:link, a:visited {
+                          background-color: Thistle;
+                          color: Teal;
+                          padding: 13px 22px;
+                          text-align: center;
+                          text-decoration: none;
+                          display: inline-block;
+                         }
 
-     .button:active {
-                      background-color: #3e8e41;
-                      box-shadow: 0 5px #666;
-                      transform: translateY(4px);
-                     }
+    a:hover {
+               background-color: LightSteelBlue;
+             }
+      
+    a:active {
+               background-color: #3e8e41;
+               box-shadow: 0 5px #666;
+               transform: translateY(4px);
+             }
    </style>
    
 <head>     
@@ -45,13 +43,10 @@ html {background: linear-gradient(to bottom right, SteelBlue, PowderBlue) no-rep
    <h1> Frostlight Factory </h1>
    
       <h3> Welcome to Frostlight Factory!</h3> 
-      This is a collection of 3D printed models and notes from our game sessions.
+      <p>This is a collection of 3D printed models and notes from our game sessions.</p>
       
-    <p>
       <h2> 3D Printed Models </h2>
-      
-      <button class="button"><a href="https://Frostlight-Factory.github.io/PlayerCharacters.html">Player Characters</a></button>
-      
+            
       <ul>
         <li><a href="https://Frostlight-Factory.github.io/PlayerCharacters.html">Player Characters</a></li>
         <li><a href="https://Frostlight-Factory.github.io/NPCs.html">NPCs</a></li>
@@ -64,7 +59,6 @@ html {background: linear-gradient(to bottom right, SteelBlue, PowderBlue) no-rep
       <li><a href="https://Frostlight-Factory.github.io/Frostmaiden.html">Rime of the Frostmaiden</a></li>
       <li><a href="https://Frostlight-Factory.github.io/Witchlight.html">Wild Beyond the Witchlight</a></li>
      </ul>
-  </p>
   
    </center>
 </body>
